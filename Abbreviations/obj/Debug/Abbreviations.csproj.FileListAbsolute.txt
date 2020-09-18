@@ -1,0 +1,7 @@
+C:\VS2019\Abbreviations\Abbreviations\bin\Debug\Abbreviations.exe.config
+C:\VS2019\Abbreviations\Abbreviations\bin\Debug\Abbreviations.exe
+C:\VS2019\Abbreviations\Abbreviations\bin\Debug\Abbreviations.pdb
+C:\VS2019\Abbreviations\Abbreviations\obj\Debug\Abbreviations.csprojAssemblyReference.cache
+C:\VS2019\Abbreviations\Abbreviations\obj\Debug\Abbreviations.csproj.CoreCompileInputs.cache
+C:\VS2019\Abbreviations\Abbreviations\obj\Debug\Abbreviations.exe
+C:\VS2019\Abbreviations\Abbreviations\obj\Debug\Abbreviations.pdb
